@@ -24,10 +24,17 @@
 
     <!-- TestNG -->
     <dependency>
-        <groupId>org.testng</groupId>
-        <artifactId>testng</artifactId>
-        <version>7.9.0</version>
-        <scope>test</scope>
+    	<groupId>org.testng</groupId>
+    	<artifactId>testng</artifactId>
+    	<version>7.10.1</version>
+    	<scope>test</scope>
     </dependency>
+    
+    <!-- WebDriverManager -->
+    <dependency>
+    	<groupId>io.github.bonigarcia</groupId>
+    	<artifactId>webdrivermanager</artifactId>
+    	<version>5.8.0</version>
+	</dependency>
   </dependencies>
 </project>
