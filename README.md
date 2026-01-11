@@ -1,3 +1,5 @@
+![API Automation Tests](https://github.com/Kartik211/APIAutomationFramework/actions/workflows/api-tests.yml/badge.svg)
+
 🚀 API Automation Framework
 A scalable, maintainable API Automation Framework built using Java, Rest Assured, TestNG, and GitHub Actions CI.
 Designed following industry best practices (SOLID, reusable client layer, data-driven testing, reporting, CI integration).
